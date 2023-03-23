@@ -12,4 +12,4 @@ Clustering & Retrieval
 
 Deep Learning
 
-For hands-on,we have used [Turi Create](https://github.com/apple/turicreate) and Jupyter Notebook.
+For hands-on, [Turi Create](https://github.com/apple/turicreate) and Jupyter Notebook have been used.
